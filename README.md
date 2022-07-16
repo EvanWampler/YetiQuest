@@ -4,10 +4,10 @@
 - [Stretch Goals](#stretch-goals)
 - [Class Breakdown](#class-breakdown)
 - [OOP Check List](#oop-check-list)
-  - [Abstraction](#abstraction)
-  - [Polymorphism](#polymorphism)
-  - [Encapsulation](#encapsulation)
-  - [Inheritance](#inheritance)
+	- [Abstraction](#abstraction)
+	- [Polymorphism](#polymorphism)
+	- [Encapsulation](#encapsulation)
+	- [Inheritance](#inheritance)
 
 # Description
 Our game is a side scroller where a yeti is trying to save his baby yeti. He will have to jump over holes and other dangerous things
@@ -28,7 +28,10 @@ while fighting off Chuck(s).
 			Player  - Jake
 			Enemy - Evan
 				Boss (stretch)
+				OrangeSlime(stretch)
 			Projectile?
+				Axe(forLumberjacks)
+				SlimeAmmo(forYeti)
 			Powerups (stretch)
 			
 
@@ -45,7 +48,7 @@ while fighting off Chuck(s).
 			Fading (stretch)
 
 		
-	Actions -- Everyone 
+	Deeds -- Everyone 
 		*
 
 
